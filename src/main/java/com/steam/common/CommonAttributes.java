@@ -4,12 +4,15 @@
  * License: http://www.sencloud.com.cn/license
  */
 package com.steam.common;
-
 /**
- * 公共参数
- * 
- * @author Sencloud Team
- * @version 3.0
+ * Copyright (C), 2015-2017, XXX有限公司
+ * FileName: C
+ * Author:   steam
+ * Date:     2017/12/5 9:20
+ * Description: ok
+ * History:
+ * <author>          <time>          <version>          <desc>
+ * 作者姓名           修改时间           版本号              描述
  */
 public final class CommonAttributes
 {
