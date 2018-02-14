@@ -9,10 +9,7 @@ package com.steam.common;
  * FileName: C
  * Author:   steam
  * Date:     2017/12/5 9:20
- * Description: ok
- * History:
- * <author>          <time>          <version>          <desc>
- * 作者姓名           修改时间           版本号              描述
+ * Description:
  */
 public final class CommonAttributes
 {
@@ -26,21 +23,6 @@ public final class CommonAttributes
 
     /** LendingCloudLife.properties文件路径 */
     public static final String LENDINGCLOUDLIFE_PROPERTIES_PATH = "/LendingCloudLife.properties";
-
-    /** 颜色规格 */
-    public static final String COLOR = "color";
-
-    /** size规格 */
-    public static final String SIZE = "size";
-
-    /** 鞋子size规格 */
-    public static final String SHOES_SIZE = "shoes_size";
-
-    /** 裤子size规格 */
-    public static final String PANTS_SIZE = "pants_size";
-
-    /** LendingCloudLife.properties文件路径 */
-    public static final String MOSHOP_ERP_PROPERTIES_PATH = "/global.sc.properties";
 
     /**
      * 不可实例化
